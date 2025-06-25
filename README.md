@@ -5,7 +5,6 @@ Language Used
 2. MYSQL
    <br>
 This is GUI Project
-<br>
   SOFTWARE USED
  <br>
  1.Jupyternotebook for code and run
