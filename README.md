@@ -5,7 +5,7 @@ Language Used
 2. MYSQL
    <br>
    <br>
-This is GUI Project
+This is GUI(Graphical User Interface) Project
 <br>
   SOFTWARE USED
  <br>
