@@ -1,6 +1,5 @@
 # Empolyee-Management-System
 Empolyee Management System 
-
 Language Used
 1. Python
 2. MYSQL
